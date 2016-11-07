@@ -9,5 +9,7 @@ REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, TH
 *Other Notes: Insert year software was first published as well as any subsequent years when a modified version is published. Publication is defined in the U.S. Copyright Act as the distribution or offer of distribution of a work to the public by sale or other transfer of ownership or by rental, lease, or lending. Since some keyboards or fonts cannot reproduce the © symbol, the symbol (c) may be used instead, although the latter will not always be accepted as a substitute for the former. Use of the symbol "©" in combination with certain other requirements affords copyright protection in some foreign countries.
 
 Author: Jonathan White
+
 Principal Investigator: Aaron Streets
+
 http://streetslab.berkeley.edu/
