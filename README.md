@@ -13,3 +13,5 @@ Author: Jonathan White
 Principal Investigator: Aaron Streets
 
 http://streetslab.berkeley.edu/
+
+The Streets Lab is developing an open source software package to control PDMS microfluidic chips.
