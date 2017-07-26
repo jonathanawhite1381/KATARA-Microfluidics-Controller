@@ -1,17 +1,1 @@
-# Streets-Lab-Microfluidic-Control
 
-Copyright ©2016. The Regents of the University of California (Regents). All Rights Reserved. Permission to use, copy, modify, and distribute this software and its documentation for educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement, is hereby granted, provided that the above copyright notice, this paragraph and the following two paragraphs appear in all copies, modifications, and distributions. Contact The Office of Technology Licensing, UC Berkeley, 2150 Shattuck Avenue, Suite 510, Berkeley, CA 94720-1620, (510) 643-7201, otl@berkeley.edu, http://ipira.berkeley.edu/industry-info for commercial licensing opportunities.
-
-IN NO EVENT SHALL REGENTS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF REGENTS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED "AS IS". REGENTS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
-
-*Other Notes: Insert year software was first published as well as any subsequent years when a modified version is published. Publication is defined in the U.S. Copyright Act as the distribution or offer of distribution of a work to the public by sale or other transfer of ownership or by rental, lease, or lending. Since some keyboards or fonts cannot reproduce the © symbol, the symbol (c) may be used instead, although the latter will not always be accepted as a substitute for the former. Use of the symbol "©" in combination with certain other requirements affords copyright protection in some foreign countries.
-
-Author: Jonathan White
-
-Principal Investigator: Aaron Streets
-
-http://streetslab.berkeley.edu/
-
-The Streets Lab is developing an open source software package to control PDMS microfluidic chips.
