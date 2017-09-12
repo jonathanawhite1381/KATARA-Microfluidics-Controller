@@ -1,0 +1,2 @@
+root = None
+stopEditing = False
