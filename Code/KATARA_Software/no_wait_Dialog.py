@@ -1,6 +1,3 @@
-# This code was written by Jonathan A White, a member of the Streets Lab at the University of California, Berkeley,
-# and is licensed under the MIT license.
-
 try:
     from tkSimpleDialog import * # python 2.7
 except:
