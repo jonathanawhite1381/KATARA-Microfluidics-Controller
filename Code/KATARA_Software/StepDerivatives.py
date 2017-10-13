@@ -223,7 +223,6 @@ class PumpStep(Step):
         for valve in (1,2,3):
             self.valveEntries.append(LabelEntry(valvesbox, 1, 2*valve, " --> Valve " + str(valve) + ": ", width = 2))
         self.entries = [self.rate, self.nCycles]+ self.valveEntries
-        self.box.pack()
 
     # PumpStep.saveEntries: Saves user entered entries in PumpStep for running or writing to saved file. If there are
     # Expressions that evaluate as a function of loop iteration, all loop iterations are checked recursively.

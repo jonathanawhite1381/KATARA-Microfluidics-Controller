@@ -81,7 +81,8 @@ class KATARAValveController(ValveController):
         self.ser.timeout = 0.1 # tell the serial object to time out and throw an error if the Arduino takes longer than
                                # 0.1 seconds to respond to a serial command.
         print(response)
-        if response != "1KATARA Arduino Firmware":
+
+        if "KATARA Arduino Firmware" not in response: # != "1KATARA Arduino Firmware" and response[1:23] != "1KATARA Arduino Firmware":
             raise IOError("The device is not an Arduino running the KATARA firmware.")
 
 
