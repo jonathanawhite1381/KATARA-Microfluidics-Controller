@@ -110,6 +110,13 @@ void loop() {
             } else{ 
             for(int c = 0; c < nCycles; c++){
               pumpCycle(rate, pumpReverse, valves);
+              if(Serial.available()){
+                //reset valves
+                for(int v = 0; v++; v < 3){
+                  digitalWrite(valves[v],0);
+                }
+                break;
+              }
             }
            }
           } else{
@@ -124,6 +131,13 @@ void loop() {
           } else{
              for(int c = 0; c < nCycles; c++){
                 pumpCycle(rate, pumpForward, valves);
+                if(Serial.available()){
+                  //reset valves
+                  for(int v = 0; v++; v < 3){
+                    digitalWrite(valves[v],0);
+                  }
+                  break;
+                }
              }
             }
            }
